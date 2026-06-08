@@ -1,0 +1,41 @@
+500 iters for the >=100 node
+250 for less than 100
+
+HGA algorithm cost (Z):
+On 5 node : 19.83
+On 10 node : 28.49
+On 100 node : 93.53
+
+GRASP algorithm cost (Z):
+On 5 node : 19.83
+On 10 node : 28.20
+On 100 node : 260.96
+
+HSC algorithm cost:
+On 5 node : 19.83
+On 10 node : 28.49
+On 100 node : 93.03
+
+
+200 nodes :
+
+HGA algorithm cost (Z):
+On 5 node : 19.83
+On 10 node : 28.49
+On 100 node : 93.53
+On 200 node : 128.45
+
+GRASP algorithm cost (Z):
+On 5 node : 19.83
+On 10 node : 28.20
+On 100 node : 260.96
+On 200 node : 516.15
+
+HSC algorithm cost:
+On 5 node : 19.83
+On 10 node : 28.49
+On 100 node : 93.03
+On 200 node : 127.75
+
+the HSC perfroms better than the HGA even if it is just barely but by increasing the number of nodes the difference becomes clearer but the runtime increases
+

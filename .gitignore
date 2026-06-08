@@ -1,0 +1,69 @@
+# Python cache files
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# IDE / Editor files
+
+.vscode/
+.idea/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Test / coverage outputs
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build / distribution files
+
+build/
+dist/
+*.egg-info/
+
+# Local environment variables
+
+.env
+.env.local
+
+# Optional generated outputs
+
+# Uncomment these only if you do not want to push generated result files
+
+# outputs/
+
+# figures/
+
+# plots/
+
+# macOS archive metadata
+__MACOSX/
+._*
+
+# Python bytecode directories
+__pycache__/
